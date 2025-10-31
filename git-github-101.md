@@ -128,3 +128,7 @@ gh pr create
 
 **Via GitHub**
 Please follow this guidance: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request
+
+#### Review and merging a PR
+
+Please see: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request
