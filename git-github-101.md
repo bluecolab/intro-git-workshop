@@ -115,7 +115,9 @@ gh pr create
 ```
 
 When it asks "Where should we push the '<new-branch-name>' branch?
+-  Select the "bluecolab/<name-of-repo>' option. In this case the first one.
 
+    <img src="./screenshots/gh-pr-create.png" >
 
 
 
