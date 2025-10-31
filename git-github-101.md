@@ -143,7 +143,7 @@ git pull origin main
 If that is done cleanly, that means there are no merge conflicts. You can do a:
 ```
 git push
-``
+```
 
 If you do have issues there's a few ways of doing so:
 - In GitHub: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github
