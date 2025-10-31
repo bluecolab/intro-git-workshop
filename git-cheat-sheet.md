@@ -25,7 +25,7 @@ __Fork__:
 __Head__:  
 &nbsp; &nbsp; &nbsp; &nbsp; The most recent commit
 
-__Master (Branch)__:  
+__Master/main (Branch)__:  
 &nbsp; &nbsp; &nbsp; &nbsp; The main branch of your repository
 
 __Pull request__:  
@@ -36,6 +36,9 @@ __Remote/Origin/Upstream__:
 
 __Repository/Repo__:  
 &nbsp; &nbsp; &nbsp; &nbsp; A container for your project
+
+__Merge conflict__:  
+&nbsp; &nbsp; &nbsp; &nbsp; When there are conflicting changes between the main branch and branch you are working on
 
 __.gitignore__:  
 &nbsp; &nbsp; &nbsp; &nbsp;This is a file that contains the names of things you want git to ignore

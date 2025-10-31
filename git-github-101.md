@@ -105,6 +105,8 @@ git push
 
 **Important**: Please always create pull requests on Blue CoLab GitHub org. The base branch name should always contain the name Blue CoLab.
 
+Also remember that once you create a PR you don't need to keep on creating new ones for the same branch. You can do a simple `git push` to sync your changes.
+
 There are three ways to create a pull request:
 
 **Via VS Code:**
@@ -131,4 +133,20 @@ Please follow this guidance: https://docs.github.com/en/pull-requests/collaborat
 
 #### Review and merging a PR
 
-Please see: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request
+Before merging, always make sure there will be no merge conflicts will the main branch.
+
+Locally you can do that by:
+```
+git pull origin main
+```
+
+If that is done cleanly, that means there are no merge conflicts. You can do a:
+```
+git push
+``
+
+If you do have issues there's a few ways of doing so:
+- In GitHub: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github
+- In VS Code: https://www.youtube.com/watch?v=lz5OuKzvadQ
+
+Finally to merge you changes see please see: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request
