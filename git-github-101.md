@@ -1,8 +1,8 @@
 
 ## Downloading
-Downloading Git: https://git-scm.com/
-(Recommend) VS Code: https://code.visualstudio.com/
-(Optional) Downloading GitHub CLI: https://github.com/cli/cli/releases/
+- Downloading Git: https://git-scm.com/
+- (Recommend) VS Code: https://code.visualstudio.com/
+- (Optional) Downloading GitHub CLI: https://github.com/cli/cli/releases/
 
 ## Terms
 See the: [git-cheat-sheet](./git-cheat-sheet.md) - here's a quick intro to Git terms and commands.
