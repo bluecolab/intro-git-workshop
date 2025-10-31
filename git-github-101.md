@@ -103,6 +103,8 @@ git push
 
 #### Creating a pull request
 
+**Important**: Please always create pull requests on Blue CoLab GitHub org. The base branch name should always contain the name Blue CoLab.
+
 There are three ways to create a pull request:
 
 **Via VS Code:**
@@ -114,10 +116,15 @@ To create a new PR:
 gh pr create
 ```
 
-When it asks "Where should we push the '<new-branch-name>' branch?
--  Select the "bluecolab/<name-of-repo>' option. In this case the first one.
+1. When it asks "Where should we push the '<new-branch-name>' branch? Select (by pressing Enter) the "bluecolab/<name-of-repo>' option. In this case the first one.
 
     <img src="./screenshots/gh-pr-create.png" >
 
+2. Next it will prompt you with the title, create a short name describing what you changed.
+    <img src="./screenshots/gh-pr-title.png>
+3. Optionally after entering the title, you can add details to the PR. Press 'E' and a new tab in VS Code should pop up. There enter what you changed then close the tab.
+4. Finally the option to "Submit" should appear, if you'r ready, hit Enter.
+5. A link to the PR on GitHub should appear.
 
-
+**Via GitHub**
+Please follow this guidance: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request
